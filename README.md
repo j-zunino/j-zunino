@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
