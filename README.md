@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
@@ -36,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-zunino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&hide=c" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-zunino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&hide=c,lua" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=j-zunino&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
